@@ -1,4 +1,4 @@
-# A Real-Time Artificial Intelligence System for Classification and Segmentation of Esophagus Precancerous Lesions with Randomized Controlled Trial
+# Clinically applicable artificial intelligence for classification and segmentation of esophagus precancerous lesions with randomized controlled trials
 
 This folder includes source code of tensorflow implementation for "A Real-Time Artificial Intelligence System for Classification and Segmentation of Esophagus Precancerous Lesions with Randomized Controlled Trial"
 
