@@ -1,11 +1,11 @@
-# A Real-Time Artificial Intelligence System for Classification and Segmentation of Esophagus Precancerous Lesions with Randomized Controlled Trial
+#A Real-Time Artificial Intelligence System for Classification and Segmentation of Esophagus Precancerous Lesions with Randomized Controlled Trial
 
 This folder includes source code of tensorflow implementation for "A Real-Time Artificial Intelligence System for Classification and Segmentation of Esophagus Precancerous Lesions with Randomized Controlled Trial"
 
-## 1. Overview
+##1. Overview
 The incidence rate of esophageal cancer has been increasing greatly in the past decade. The gold standard for preventing esophagus cancer is routine esophagoscopy because of its remarkable performance in reducing morbidity and mortality. Recently, artificial intelligence has shown great promise in screening esophagus lesions on laboratory annotated datasets. The next step of artificial intelligence-based screening algorithms needs to consider real-time diagnosis and randomized controlled trial when applied to clinical diagnosis. In this study, we firstly demonstrate a novel multi-task deep learning model that can simultaneously complete the classification and segmentation of esophagus precancerous lesions with only one network inference, in real-time and with high sensitivity (94.51%) and specificity (97.92%). Furthermore, we conduct a study of endoscopists screening esophageal lesions with the assistance of the developed algorithm. The average diagnostic ability of eight endoscopists (2 seniors, 3 mid-levels, 3 juniors) is all improved in terms of sensitivity (74.43% vs. 87.35%), specificity (89.6% vs. 92.3%), and accuracy (82.2% vs. 89.9%). Finally, a randomized controlled trial was conducted and demonstrated that the detection rate of the esophageal abnormal lesion in the research group and the control group was 3.7% and 1.7%, respectively (54 abnormal lesions were found in the research group, 28 in the control group. p＜0.001). The screening system can process at least 135 frames per second with a computational time of 7.157 ms in real-time video assistance and is able to aid endoscopists to screen esophagus lesions.
 
-## 2. System requirements
+##2. System requirements
  ###  2.1 Hardware Requirements
     The package requires only a standard computer with GPU and enough RAM to support the operations defined by a user. 
     For optimal performance, we recommend a computer with the following specs:
